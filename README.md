@@ -16,6 +16,11 @@ This is a payment api for online such as visa
 - cross-env
 - nodemon
 
+### Configuration
+
+- add .env file in root directory
+- take key from resource.txt and add in .env file
+
 ### Installing and Start
 
 ```
