@@ -1,5 +1,0 @@
-PORT=3001
-MONGODB_URI=mongodb+srv://thurein:thurein@cluster0.97qxl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-STRIPE_KEY=sk_test_51JuAOKKfOxqkcDJf5bdzcmYjNQlDN7NNe1W9Z6DlL3oshjjJk2pEsRdQaGrhkRu47EsdHMCjxQjyJsFewyJYdgYo00jW8kVkmb
-SERVER_URL=http://localhost:3001
-PAYMENT_METHOD_LINK=https://buy.stripe.com/test_dR6bMifFL7OY5Nu9AA
